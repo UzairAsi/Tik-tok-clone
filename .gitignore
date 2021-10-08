@@ -3,10 +3,17 @@
 # dependencies
 /node_modules
 /.pnp
+.mp4
+/.mp4
+*.mp4
 .pnp.js
-
+/public
 # testing
 /coverage
+/package.json
+/package-lock.json
+/firebase.json
+/.firebaserc
 
 # production
 /build
